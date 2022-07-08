@@ -5,19 +5,7 @@
 
 Here are some ideas to get you started:
 
--->apt install python
-
-apt install python2
-
-apt install python3
-
-
-git clone https://github.com/MOHAMMADCYBERIT
-
-cd MOHAMMADCYBERIT
-
-python mohammad-cyberit
-
+-->
 ##MOHAMMADCYBERIT
 ┈┈┈┏┓┈CYBERIT┈┈┈
 ┈┈┈┣┫┈┈ ┈┈┈┈┈┈
@@ -29,4 +17,5 @@ python mohammad-cyberit
 
 .
 
+‌
 ‌
